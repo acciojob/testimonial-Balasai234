@@ -13,9 +13,9 @@
 	background-color: #f5f5f5;
 	padding:22px;
 	margin:20px;
-	border:1px solid
-	
-	
+	border:1px solid;
+	font-style:italic;
+	text-align:right
 }
 #box2{
 	height:70px;
@@ -23,7 +23,9 @@
 	background-color: #f5f5f5;
 	padding:22px;
 	margin:20px;
-	border:1px solid
+	border:1px solid;
+	font-style:italic;
+	text-align:right
 	
 }
 
